@@ -4,3 +4,4 @@ __pycache__/
 # generated data and exports
 *.csv
 *.png
+!docs/*.png
