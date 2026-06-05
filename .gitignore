@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# generated data and exports
+*.csv
+*.png
